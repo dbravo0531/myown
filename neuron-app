@@ -21,4 +21,4 @@ name: neuron-repo-auth
 type: kubernetes.io/basic-auth
 stringData:
 username: PepEiotpNonProdEdgeAcr
-password: removed password for security purpose.
+password: myown
